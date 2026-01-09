@@ -4,9 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=joshua-castellanos&label=Profile%20views&color=0e75b6&style=flat" alt="joshua-castellanos"/>
 
-<a href="https://linkedin.com/in/joshua-castellanos0713/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+
 
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&pause=1000&color=03A199&center=true&vCenter=true&random=true&width=435&lines=Data+Analyst+Jr.;Full-Stack+Dev+Jr." alt="Typing SVG" /></a>
@@ -25,3 +23,7 @@
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+
+<a href="https://linkedin.com/in/joshua-castellanos0713/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
