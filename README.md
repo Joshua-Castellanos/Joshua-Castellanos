@@ -1,4 +1,4 @@
-<image src="https://i.imgur.com/iH9PsUh.png">
+<image src="https://media.licdn.com/dms/image/v2/D4E16AQEJKxEmjbuZcA/profile-displaybackgroundimage-shrink_350_1400/B4EZufNcnoGoAY-/0/1767902661719?e=1770854400&v=beta&t=iH_vlxduBthtmJtooOEZQR4fIYtU4O6EFKE58spWido">
 </br>
 <h1 align="center">Hi there, I'm <a href="https://linktr.ee/joshua.castellanos">Joshua Castellanos</a>! </h1>
 
